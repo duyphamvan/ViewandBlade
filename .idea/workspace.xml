@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15040866-3845-4d17-9ab4-f097940b82c4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/task_manager/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task_layout/resources/views/tasks/list.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="35" column="49" lean-forward="true" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/task_layout/app/Http/Controllers/TaskController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task_layout/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/task_manager/resources/views/customers/list.blade.php" />
+        <option value="$PROJECT_DIR$/task_manager/routes/web.php" />
+        <option value="$PROJECT_DIR$/task_manager/app/Http/Controllers/CustomerController.php" />
+        <option value="$PROJECT_DIR$/task_management_blade/.env" />
+        <option value="$PROJECT_DIR$/task_management_blade/database/migrations/2019_02_19_141523_create_customerss_table.php" />
+        <option value="$PROJECT_DIR$/task_management_blade/config/database.php" />
+        <option value="$PROJECT_DIR$/task_management_blade/routes/web.php" />
+        <option value="$PROJECT_DIR$/task_management_blade/resources/sass/app.scss" />
+        <option value="$PROJECT_DIR$/task_management_blade/database/migrations/2019_02_19_142056_create_tasks_table.php" />
+        <option value="$PROJECT_DIR$/task_management_blade/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/task_management_blade/resources/views/add.blade.php" />
+        <option value="$PROJECT_DIR$/task_management_blade/database/migrations/2019_02_19_160407_update_tasks_table.php" />
+        <option value="$PROJECT_DIR$/task_management_blade/database/migrations/2019_02_19_145850_create_tasks_table.php" />
+        <option value="$PROJECT_DIR$/task_management_blade/public/css/1.css" />
+        <option value="$PROJECT_DIR$/task_management_blade/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/task_management_blade/app/Http/Controllers/TaskController.php" />
+        <option value="$PROJECT_DIR$/task_layout/routes/web.php" />
+        <option value="$PROJECT_DIR$/task_layout/resources/views/tasks/list.blade.php" />
+        <option value="$PROJECT_DIR$/task_layout/app/Http/Controllers/TaskController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/task_manager/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/composer" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/php-http/guzzle6-adapter" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/nexmo/client" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/laravel/nexmo-notification-channel" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/laravel/slack-notification-channel" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/task_manager/vendor/guzzlehttp/psr7" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1299" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ViewtrongLaravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ViewtrongLaravel" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15040866-3845-4d17-9ab4-f097940b82c4" name="Default Changelist" comment="" />
+      <created>1550564971995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550564971995</updated>
+      <workItem from="1550564975216" duration="11828000" />
+      <workItem from="1550591930884" duration="4320000" />
+      <workItem from="1550610759505" duration="806000" />
+      <workItem from="1550611572110" duration="2433000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19387000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19074222" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.104234524" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/task_manager/resources/views/customers/list.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_manager/app/Http/Controllers/CustomerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_manager/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="72" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_management_blade/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_management_blade/public/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_management_blade/resources/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="59" selection-start-line="1" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_management_blade/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_management_blade/database/migrations/2019_02_19_142056_create_tasks_table.php" />
+    <entry file="file://$PROJECT_DIR$/task_management_blade/public/web.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_management_blade/database/migrations/2019_02_19_160407_update_tasks_table.php" />
+    <entry file="file://$PROJECT_DIR$/task_management_blade/database/migrations/2019_02_19_141523_create_customerss_table.php" />
+    <entry file="file://$PROJECT_DIR$/task_management_blade/resources/views/add.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_management_blade/public/css/1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_management_blade/database/migrations/2019_02_19_145850_create_tasks_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_management_blade/resources/views/tasks/list.blade.php" />
+    <entry file="file://$PROJECT_DIR$/task_management_blade/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_management_blade/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="21" column="67" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_management_blade/app/Http/Controllers/TaskController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="e#40#53#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_management_blade/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_layout/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_layout/resources/views/tasks/list.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="35" column="49" lean-forward="true" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_layout/app/Http/Controllers/TaskController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
